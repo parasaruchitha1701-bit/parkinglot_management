@@ -63,7 +63,6 @@ public class Main {
                     } catch (IllegalArgumentException e) {
                         System.out.println("Invalid Vehicle type. Use SMALL, LARGE, or OVERSIZE.");
                     }
-                    
                     break;
 
                 case "2":
