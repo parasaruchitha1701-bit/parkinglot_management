@@ -83,3 +83,6 @@ parking-lot/
  
  # Run the Application using any IDE 
   STS / IntelliJ / VS Code
+
+ # Presentation for the Application 
+  Parking_lot_management_Ruchitha.pptx
