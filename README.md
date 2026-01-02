@@ -50,7 +50,7 @@ Vehicles are parked only in a slot of the matching type.
 parking-lot/
 ├── pom.xml
 ├── data/
-│   └── parking_state.csv (auto-created after running)
+│   └── parking_state.csv (created after running)
 ├── src/
 │   └── main/
 │       └── java/
