@@ -10,7 +10,7 @@ It models a small parking lot with 'N slots' - (N provided by the user at runtim
 
 The application is implemented as a **command-line (CLI) Java application**.  
 
-For storage, the application uses a **CSV file** (`data/parking_state.csv`) to persist state.  
+For storage, the application uses a **CSV file** (data/parking_state.csv) to persist state.  
 
 # 2. Requirements Covered
 Functional Requirements
@@ -75,7 +75,7 @@ parking-lot/
 - **Main.java**
   - CLI menu and user input handling
 - **model/**
-  - `Vehicle`, `ParkingSlot`, and enums `VehicleType`, `SlotType`
+  - Vehicle, ParkingSlot, and enums VehicleType, SlotType
 - **service/ParkingLotService.java**
   - Core business logic: initialize lot, park/remove vehicles, status display
 - **storage/ParkingLotStorage.java**
