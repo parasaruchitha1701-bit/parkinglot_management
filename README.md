@@ -51,6 +51,8 @@ parking-lot/
 ├── pom.xml
 ├── data/
 │   └── parking_state.csv (created after running)
+├── Presentation/
+│   └── Parking_lot_management_Ruchitha.pptx
 ├── src/
 │   └── main/
 │       └── java/
