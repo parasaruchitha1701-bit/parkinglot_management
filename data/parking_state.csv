@@ -1,5 +1,5 @@
 slotId,slotType,occupied,vehicleId,vehicleType
-1,SMALL,true,kr$1,SMALL
+1,SMALL,true,op31,SMALL
 2,SMALL,false,,
 3,LARGE,false,,
 4,OVERSIZE,false,,

@@ -4,7 +4,6 @@ import com.parkinglot.model.Vehicle;
 import com.parkinglot.model.VehicleType;
 import com.parkinglot.service.ParkingLotService;
 import com.parkinglot.storage.ParkingLotStorage;
-
 import java.util.Scanner;
 
 public class Main {
@@ -39,7 +38,7 @@ public class Main {
             System.out.println("5) Exit");
             System.out.println("========================");
 
-            System.out.print("Choose an option: ");
+            System.out.println("Choose an option: ");
             String choice = scanner.nextLine().trim();
 
             switch (choice) {
