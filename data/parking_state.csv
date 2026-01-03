@@ -1,5 +1,12 @@
 slotId,slotType,occupied,vehicleId,vehicleType
+<<<<<<< HEAD
 1,SMALL,true,op31,SMALL
+=======
+1,SMALL,true,KB01,SMALL
+>>>>>>> 8d60a4ce2b76d613c586172483fb84bbc5304fa8
 2,SMALL,false,,
-3,LARGE,false,,
-4,OVERSIZE,false,,
+3,SMALL,false,,
+4,LARGE,true,kr003,LARGE
+5,LARGE,false,,
+6,OVERSIZE,true,rk039,OVERSIZE
+7,OVERSIZE,false,,
