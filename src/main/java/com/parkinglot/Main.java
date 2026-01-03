@@ -1,10 +1,11 @@
 package com.parkinglot;
 
+import java.util.Scanner;
+
 import com.parkinglot.model.Vehicle;
 import com.parkinglot.model.VehicleType;
 import com.parkinglot.service.ParkingLotService;
 import com.parkinglot.storage.ParkingLotStorage;
-import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
