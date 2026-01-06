@@ -50,13 +50,9 @@ Vehicles are parked only in a slot of the matching type.
 parking-lot/
 ├── pom.xml
 ├── data/
-<<<<<<< HEAD
-│   └── parking_state.csv (auto-created after running)
-=======
 │   └── parking_state.csv (created after running)
 ├── Presentation/
 │   └── Parking_lot_management_Ruchitha.pptx
->>>>>>> 8d60a4ce2b76d613c586172483fb84bbc5304fa8
 ├── src/
 │   └── main/
 │       └── java/
